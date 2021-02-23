@@ -24,6 +24,7 @@ def get_ip(machine_name):
 class Scanner:
     def  __init__(self):
         pass
+    
 
 
 if __name__ == '__main__':
